@@ -1,0 +1,32 @@
+body {
+    background-color: #ffe6e6; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #333333;
+    
+
+    text-align: center;
+}
+
+h1 {
+    display: inline-block; 
+    border: 3px solid #b30000; 
+    background-color: #ffffff; 
+    padding: 12px 20px; 
+    border-radius: 8px; 
+    color: #b30000; 
+    margin: 20px auto; 
+}
+
+p {
+    font-size: 1.1em;
+    max-width: 600px; 
+    margin: 15px auto; 
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #666666;
+}
